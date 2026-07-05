@@ -1,14 +1,9 @@
 {
-    "launcherVersion": "1.0.0",
-    "gameVersion": "DEV",
-
-    "maintenance": false,
-
-    "maintenanceMessage": "Servers are currently under maintenance. Please try again later.",
-
-    "message": "Welcome to New Era Ran Online!",
-
-    "downloadUrl": "",
-
-    "patchUrl": ""
+  "launcherVersion": "1.0.0",
+  "gameVersion": "DEV",
+  "maintenance": true,
+  "maintenanceMessage": "Servers are currently under maintenance. Please try again later.",
+  "message": "Welcome to New Era Ran Online!",
+  "downloadUrl": "",
+  "patchUrl": ""
 }
