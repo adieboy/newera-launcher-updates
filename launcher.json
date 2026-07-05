@@ -1,7 +1,7 @@
 {
   "launcherVersion": "1.0.0",
   "gameVersion": "DEV",
-  "maintenance": false,
+  "maintenance": true,
   "maintenanceMessage": "Servers are currently under maintenance. Please try again later.",
   "message": "Welcome to New Era Ran Online!",
   "downloadUrl": "",
