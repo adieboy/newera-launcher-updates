@@ -24,5 +24,7 @@
   "maintenanceMessage": "Servers are currently under maintenance.",
   "discordUrl": "https://discord.gg/YOURSERVER",
   "facebookUrl": "https://facebook.com/YOURPAGE",
-  "websiteUrl": "https://YOURWEBSITE.com"
+  "websiteUrl": "https://YOURWEBSITE.com",
+  "serverStatus": "ONLINE",
+  "serverStatusDescription": "All systems operational."
 }
