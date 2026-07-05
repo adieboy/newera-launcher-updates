@@ -1,12 +1,17 @@
 {
-  "appTitle": "CLASSIC RAN ONLINE",
-  "serverStatus": "ONLINE",
-  "launcherVersion": "1.0.0",
-  "gameVersion": "CLASSIC",
-  "playButtonText":"PLAY"
-  "maintenance": false,
-  "maintenanceMessage": "Servers are currently under maintenance. Please try again later.",
-  "message": "Welcome to New Era Ran Online!",
-  "downloadUrl": "",
-  "patchUrl": ""
+    "appTitle":"NEW ERA RAN ONLINE",
+
+    "serverStatus":"ONLINE",
+
+    "onlinePlayers":1284,
+
+    "news":"Double EXP Weekend!",
+
+    "launcherVersion":"1.0.0",
+
+    "gameVersion":"EP7",
+
+    "playButtonText":"PLAY",
+
+    "maintenance":false
 }
