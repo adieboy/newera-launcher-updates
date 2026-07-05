@@ -3,7 +3,12 @@
   "serverSubtitle": "RAN ONLINE",
   "serverStatus": "ONLINE",
   "onlinePlayers": 1284,
-  "news": "Double EXP Weekend is LIVE!",
+  "news": [
+    "Double EXP Weekend is LIVE!",
+    "Castle War starts at 8:00 PM",
+    "New costumes available in Item Mall",
+    "Welcome to New Era Ran Online!"
+],
   "launcherVersion": "1.0.0",
   "gameVersion": "EP7",
   "playButtonText": "PLAY",
