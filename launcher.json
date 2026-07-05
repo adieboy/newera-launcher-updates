@@ -1,5 +1,5 @@
 {
-  "serverTitle": "NEW ERA",
+  "serverTitle": "Classic",
   "serverSubtitle": "RAN ONLINE",
   "serverStatus": "ONLINE",
   "onlinePlayers": 1284,
@@ -18,7 +18,7 @@
     }
   ],
   "launcherVersion": "1.0.0",
-  "gameVersion": "EP7",
+  "gameVersion": "EP2",
   "playButtonText": "PLAY",
   "maintenance": false,
   "maintenanceMessage": "Servers are currently under maintenance."
