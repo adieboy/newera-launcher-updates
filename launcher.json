@@ -21,8 +21,8 @@
   "gameVersion": "EP2",
   "playButtonText": "PLAY",
   "maintenance": false,
-  "maintenanceMessage": "Servers are currently under maintenance."
+  "maintenanceMessage": "Servers are currently under maintenance.",
   "discordUrl": "https://discord.gg/YOURSERVER",
-"facebookUrl": "https://facebook.com/YOURPAGE",
-"websiteUrl": "https://YOURWEBSITE.com"
+  "facebookUrl": "https://facebook.com/YOURPAGE",
+  "websiteUrl": "https://YOURWEBSITE.com"
 }
