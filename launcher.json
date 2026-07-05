@@ -1,8 +1,8 @@
 {
-  "appTitle": "NEW ERA RAN ONLINE",
+  "appTitle": "CLASSIC RAN ONLINE",
   "serverStatus": "ONLINE",
   "launcherVersion": "1.0.0",
-  "gameVersion": "DEV",
+  "gameVersion": "CLASSIC",
   "maintenance": false,
   "maintenanceMessage": "Servers are currently under maintenance. Please try again later.",
   "message": "Welcome to New Era Ran Online!",
