@@ -1,16 +1,12 @@
 {
-    "serverTitle": "NEW ERA",
-    "serverSubtitle": "RAN ONLINE",
-
-    "serverStatus": "ONLINE",
-    "onlinePlayers": 1284,
-    "news": "Double EXP Weekend is LIVE!",
-
-    "launcherVersion": "1.0.0",
-    "gameVersion": "EP7",
-
-    "playButtonText": "PLAY",
-
-    "maintenance": false,
-    "maintenanceMessage": "Servers are currently under maintenance."
+  "serverTitle": "NEW ERA",
+  "serverSubtitle": "RAN ONLINE",
+  "serverStatus": "ONLINE",
+  "onlinePlayers": 1284,
+  "news": "Double EXP Weekend is LIVE!",
+  "launcherVersion": "1.0.0",
+  "gameVersion": "EP7",
+  "playButtonText": "PLAY",
+  "maintenance": false,
+  "maintenanceMessage": "Servers are currently under maintenance."
 }
