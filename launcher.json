@@ -18,7 +18,7 @@
 
   "playButtonText": "PLAY",
 
-  "manifestUrl": "https://raw.githubusercontent.com/adieboy/newera-launcher-updates/refs/heads/main/manifest.json",
+  "manifestUrl":"https://raw.githubusercontent.com/adieboy/newera-launcher-updates/main/manifest.json",
 
   "news": [
     {
