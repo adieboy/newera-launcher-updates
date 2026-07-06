@@ -1,9 +1,11 @@
 {
   "gameVersion": "EP2",
-
-  "baseUrl": "https://raw.githubusercontent.com/adieboy/newera-launcher-updates/refs/heads/main/Patches/",
-
+  "baseUrl": "https://raw.githubusercontent.com/adieboy/newera-launcher-updates/main/Patches/",
   "files": [
-
+    {
+      "path": "test.txt",
+      "size": 18,
+      "md5": ""
+    }
   ]
 }
